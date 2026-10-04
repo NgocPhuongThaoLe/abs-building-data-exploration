@@ -21,9 +21,9 @@ Metadata findings are documented in [docs/01_dataset_overview.md](docs/01_datase
 
 
 ### Step 3: Explore Structure and Data Quality
-- Use `01_structure_and_quality.ipynb` to inspect columns, data types, grain and unique keys.
+- Use `01_EDA_Building_activity` `02_EDA_BA_SA2` to inspect columns, data types, grain and unique keys.
 - Check coverage, missing values, duplicates, geographic levels, units and adjustments.
-- Document column meanings in `docs/data_dictionary.md`.
+- Document in `02_data_building_activity_exploration` and  `03_BA_SA2_exploration`
 
 
 ### Step 4: Explore Patterns and Dataset Compatibility
