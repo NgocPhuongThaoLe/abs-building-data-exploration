@@ -21,8 +21,8 @@ DATASETS = [
             "?startPeriod=2023-Q2"
             "&dimensionAtObservation=AllDimensions"
         ),
-        "start_period": "2023-Q2",
-        "end_period": "2023-Q4",
+        "start_period": "2023-01",
+        "end_period": "2025-Q4",
     },
     {
         "dataset": "BA_SA2",
@@ -34,8 +34,8 @@ DATASETS = [
             "?startPeriod=2023-07"
             "&dimensionAtObservation=AllDimensions"
         ),
-        "start_period": "2023-07",
-        "end_period": "2023-09",
+        "start_period": "2023-01",
+        "end_period": "2025-09",
     },
 ]
 

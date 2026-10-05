@@ -28,7 +28,7 @@ Metadata findings are documented in [docs/01_dataset_overview.md](docs/01_datase
 
 ### Step 4: Explore Patterns and Dataset Compatibility
 - Expand extraction to a suitable exploration scope.
-- Create 4–6 charts in `02_patterns_and_questions.ipynb`.
+- Create 4–6 charts in `03_patterns_and_questions.ipynb`.
 - Record observations, follow-up questions and limitations.
 - Check whether both datasets align by geography, time, measures and units.
 
